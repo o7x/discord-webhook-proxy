@@ -1,4 +1,4 @@
-#Proxy Server for Discord Webhooks
+# Proxy Server for Discord Webhooks
 This can be used if Discord is blocked.
-#Live Demo
+## Live Demo
 https://discordwebhooks.herokuapp.com/
